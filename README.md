@@ -1,4 +1,6 @@
 # Frontend-Project
+<p>The Internet is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together.
+<b>The history of the Internet is somewhat obscure. It began in the 1960s as a US-army-funded research project, then evolved into a public infrastructure in the 1980s with the support of many public universities and private companies.</b> - mdn</p>
 <pre><h3><b>
 1. Understanding the core technologies: HTML, CSS & JavaScript.
 2. Understanding accessibility: Knowing how it can affect your users' experience.
